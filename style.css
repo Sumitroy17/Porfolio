@@ -33,3 +33,11 @@ section{
 .top{
     background-image: url();
 }
+.flex-container{
+    display flex:
+    margin-bottom: 150px;
+}
+
+.half-width-ex{
+    width: 50px;
+}

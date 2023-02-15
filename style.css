@@ -41,6 +41,7 @@ section{
     width: px;
     border-radius: 10px;
     margin-left: 5%;
+    padding: 10px 30px;
     margin-right: 5%;
     box-shadow: 10px 10px 40px gray;
     
@@ -53,5 +54,11 @@ section{
 }
 footer p{
     text-align: center;
+}
+.ex-pri{
+    margin-left: 95px;
+}
+.exprience-area{
+    margin-left: 30px;
 }
 

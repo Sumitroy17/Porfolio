@@ -34,10 +34,24 @@ section{
     background-image: url();
 }
 .flex-container{
-    display flex:
-    margin: bottom 10px;;
+    display: flex;
+    margin: bottom 10px;
+}
+.exprience-sh{
+    width: px;
+    border-radius: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px gray;
+    
+}
+#full-dev{
+    border-left: 7px solid tomato;
+}
+#baby-dev{
+    border-left: 7px solid blue;
+}
+footer p{
+    text-align: center;
 }
 
-.half-width-ex{
-
-}

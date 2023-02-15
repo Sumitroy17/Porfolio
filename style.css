@@ -35,9 +35,9 @@ section{
 }
 .flex-container{
     display flex:
-    margin-bottom: 150px;
+    margin: bottom 10px;;
 }
 
 .half-width-ex{
-    width: 50px;
+
 }
